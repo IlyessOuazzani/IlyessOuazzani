@@ -18,7 +18,7 @@
  Main languages ​​used for my projects
   <p  align="center">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=js,html,css,arduino,cpp,java"/>
+    <img  src="https://skillicons.dev/icons?i=python,js,html,css,arduino,cpp,java"/>
   </a>
 </p>
 
